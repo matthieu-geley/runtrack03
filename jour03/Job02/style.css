@@ -1,0 +1,13 @@
+.box1 {
+   margin-top: 15px;
+   margin-bottom: 15px ;
+   height: 399px;
+   width: 850px;
+   outline: 1px dashed black;
+}
+
+.box2 {
+   height: 399px;
+   width: 850px;
+   outline: 1px dashed red;
+}
